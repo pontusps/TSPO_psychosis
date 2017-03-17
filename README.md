@@ -1,5 +1,5 @@
 # TSPO_psychosis
-Meta-analysis of brain TSPO Distribution Volumes (V~T~) in patients with psychosis as compared to healthy controls. 
+Meta-analysis of brain TSPO Distribution Volumes (VT) in patients with psychosis as compared to healthy controls. 
 
 
 ## Pre-commitment/pre-registration of analysis procedure 
