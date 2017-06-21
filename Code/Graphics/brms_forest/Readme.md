@@ -1,0 +1,1 @@
+The ´brms_forest_HB.R´ script is adapted from https://github.com/mvuorre/vmisc/blob/master/R/brms_forest.R  . As such this particular script goes under a GNU General Public License v3.0. https://www.gnu.org/licenses/gpl-3.0.en.html
